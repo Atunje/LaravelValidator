@@ -1,6 +1,7 @@
 {
     "name": "nobelatunje/laravel-validator",
     "description": "A simple and easier validation functionality built on top of Laravel Validator class.",
+    "license": "MIT",
     "type": "library",
     "autoload": {
         "psr-4": {
