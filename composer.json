@@ -1,0 +1,20 @@
+{
+    "name": "nobelatunje/laravel-validator",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "NobelAtunje\\LaravelValidator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ademuyiwa Adetunji",
+            "email": "nobelatunje001@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^9.11",
+        "illuminate/validation": "^9.11",
+        "illuminate/http": "^9.11"
+    }
+}
