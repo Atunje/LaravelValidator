@@ -1,8 +1,8 @@
 # Nobelatunje/LaravelValidator
 
-A simple validation functionality built on top of Laravel Validator class.
+A simple and easier validation functionality built on top of Laravel Validator class.
 
-This library can be plugged into any laravel or lumen application and you can easily manage validation.
+This library is majorly for Lumen but can also plugged into a Laravel application and easily manage validation.
 
 Core functionalities are:
 1. Validates incoming request data and returns an array of validated parameters
