@@ -1,5 +1,6 @@
 {
     "name": "nobelatunje/laravel-validator",
+    "description": "A simple and easier validation functionality built on top of Laravel Validator class.",
     "type": "library",
     "autoload": {
         "psr-4": {
@@ -13,6 +14,7 @@
         }
     ],
     "require": {
+        "php": ">=8.0.2",
         "illuminate/support": "^9.11",
         "illuminate/validation": "^9.11",
         "illuminate/http": "^9.11"
